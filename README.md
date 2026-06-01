@@ -1,6 +1,6 @@
 # Movhex - Route Planner 
 
-Course: Algorithms and Data Structures @ Politecnico di Milano
+**Course**: Algorithms and Data Structures @ Politecnico di Milano
 
 ## Overview
 This project is my final assignment for the Algorithms and Data Structures course. 
